@@ -1,0 +1,19 @@
+---
+name: "User Story"
+about: "Create a new user story"
+title: ""
+labels: ""
+assignees: ""
+---
+
+## User Story
+As a ___,
+I need ___,
+So that ___.
+
+## Acceptance Criteria
+Given ___  
+When ___  
+Then ___  
+
+## Additional Notes
